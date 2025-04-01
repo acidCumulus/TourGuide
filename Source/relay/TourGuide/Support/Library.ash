@@ -1717,5 +1717,5 @@ location hippyCampInDisguise() {
 }
 
 boolean isAprilFools() {
-    return (now_to_string("MMdd") == "0401");
+    return (true);
 }
